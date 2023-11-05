@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69252015276",
+    "firebase_url": "https://bulut-bilisim-game-default-rtdb.firebaseio.com",
+    "project_id": "bulut-bilisim-game",
+    "storage_bucket": "bulut-bilisim-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69252015276:android:f6642210e808400926ab09",
+        "android_client_info": {
+          "package_name": "com.bulutbilisimgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69252015276-p83lbheqp74up9m5aujcbhl8cm821rub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNljDbssI9-KSHAhmot3gFpaHuoeo-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69252015276-p83lbheqp74up9m5aujcbhl8cm821rub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
